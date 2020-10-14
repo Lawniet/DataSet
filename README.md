@@ -3,7 +3,7 @@
 ## Please acknowledge the repository in published materials
 
 If you publish material based on data obtained from this [repository](http://networkrepository.com/), then, in your acknowledgements, please note the assistance you 
-received by using [network repository]](http://networkrepository.com/).
+received by using [network repository](http://networkrepository.com/).
 
 Please use the following BiBTeX reference:
  ``` 
